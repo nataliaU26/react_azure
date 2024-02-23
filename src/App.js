@@ -2,7 +2,6 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { GiHamburgerMenu } from "react-icons/gi";
 import { useState} from'react'
 //Elements of Home page
-import Navbar from'../src/components/Navbar'
 import Sidebar from'../src/components/Sidebar'
 
 //pages

@@ -1,4 +1,3 @@
-import { IoPersonSharp,IoBag } from "react-icons/io5";
 import React, { useState } from 'react';
 
 function SignUpForm() {
